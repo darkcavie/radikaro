@@ -1,0 +1,9 @@
+﻿{
+	"en" : ["o", "i", "a"],
+	"el" : "o",
+	"signifoj" : {
+		"o" : "Objekto farita el la argumento",
+		"i" : "Rezulto de la ago",
+		"a" : "Nomo de la kvalito"
+	}
+}
