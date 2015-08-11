@@ -1,0 +1,10 @@
+{
+	"argumentoj": ["S","O"]
+	"signifoj" : {
+		"strikta" : "S montras la volon scii O al iu."
+	}
+	"alilingve": {
+		"en": "to ask",
+		"es": "preguntar"
+	}
+}

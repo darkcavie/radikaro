@@ -1,3 +1,10 @@
 {
-"argumentoj": ["persona", "objekta"]
+	"argumentoj": ["S", "O"]
+	"signifoj": {
+		"strikta":"S sentas fortan emocian favoran inklinon al O"
+	},
+	"alilingve": {
+		"en": "to love",
+		"es": "amar"
+	}
 }

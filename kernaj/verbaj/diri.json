@@ -1,0 +1,10 @@
+{
+	"argumentoj": ["S","O","A?"]
+	"signifoj" : {
+		"strikta" : "Parolante, S esprimas 0 (je maniero A)"
+	}
+	"alilingve": {
+		"en": "",
+		"es": "decir"
+	}
+}
